@@ -42,7 +42,7 @@ api = CoinGeckoAPI()
 
 
 # bot init
-bot = Bot(token='5562424125:AAHHkQrNV_EYnUHWfAPb9ZS4-gEIfBATcyw')
+bot = Bot(token='5562424125:AAFxbOlmDWqrc2R7tqzKghHw9_1yluSH8dg')
 dp = Dispatcher(bot)
 
 # datebase
